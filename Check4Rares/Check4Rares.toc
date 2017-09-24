@@ -1,0 +1,12 @@
+## Interface: 70300
+## Title: Micro_Rares V1.e
+## Notes: Looks for rare spawns ie. the ones with Silver Dragons around their portraits in close proximity to your location
+## Notes: Todo change ("focus") as I only put this in for testing and as a place holder for some kind of nameplate event
+## Notes: Also maybe move rares arrays/tables into seperate file and complete the list as it requires updating..
+## Author: tHE.alCHMist
+## Version: 1.e
+## Date: 2017-08-07
+## SavedVariablesPerCharacter: RaresSeenDB, Check4RaresVars
+## SavedVariables NewRaresDB
+Check4Rares.lua
+RaresDB.lua
